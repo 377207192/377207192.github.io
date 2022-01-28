@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - 我的全新 Hugo 网站</title>
+        <link>https://377207192.github.io/posts/</link>
+        <description>所有文章 | 我的全新 Hugo 网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 27 Jan 2022 14:38:17 &#43;0800</lastBuildDate><atom:link href="https://377207192.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>https://377207192.github.io/first_post/</link>
+    <pubDate>Thu, 27 Jan 2022 14:38:17 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://377207192.github.io/first_post/</guid>
+    <description><![CDATA[one two three four  five ]]></description>
+</item><item>
+    <title>second_post</title>
+    <link>https://377207192.github.io/first_post%E7%9A%84%E5%89%AF%E6%9C%AC/</link>
+    <pubDate>Thu, 27 Jan 2022 14:38:17 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://377207192.github.io/first_post%E7%9A%84%E5%89%AF%E6%9C%AC/</guid>
+    <description><![CDATA[happy new year  five ]]></description>
+</item></channel>
+</rss>
